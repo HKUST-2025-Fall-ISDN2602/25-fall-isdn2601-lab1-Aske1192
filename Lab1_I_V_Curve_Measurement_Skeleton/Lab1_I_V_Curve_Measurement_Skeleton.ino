@@ -2,7 +2,7 @@
 
 #define Vin 12  //*** Define the GPIO pin 12 as Vin ***
 #define Vout 27  //*** Define the GPIO pin 27 as Vout ***
-//#define Cal 14 //#define Cal //*** Define the GPIO pin 14 as the node for current calcultion ***
+//#define Cal 14 //#define Cal //*** Define the GPIO pin 14 as the node for current calcultion. ***
 
 //float R = 0.022; //*** Resistance in Mohm ***
 
